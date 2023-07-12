@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "ooWBLMisLeiL3k4pMoxr0dR9DOhHlMZ+qC0Z2emEtpA0tZo9fjnXVwWTsmDf0s5RziWNy5tsWFtfMwgN2DQTew==",
+  "success": true,
+  "projectFilePath": "/home/apolm01-017/Music/DiagramaNetCore/Infraestructure/Infraestructure.csproj",
+  "expectedPackageFiles": [
+    "/home/apolm01-017/.nuget/packages/microsoft.entityframeworkcore/8.0.0-preview.5.23280.1/microsoft.entityframeworkcore.8.0.0-preview.5.23280.1.nupkg.sha512",
+    "/home/apolm01-017/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.0-preview.5.23280.1/microsoft.entityframeworkcore.abstractions.8.0.0-preview.5.23280.1.nupkg.sha512",
+    "/home/apolm01-017/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.0-preview.5.23280.1/microsoft.entityframeworkcore.analyzers.8.0.0-preview.5.23280.1.nupkg.sha512",
+    "/home/apolm01-017/.nuget/packages/microsoft.entityframeworkcore.relational/7.0.2/microsoft.entityframeworkcore.relational.7.0.2.nupkg.sha512",
+    "/home/apolm01-017/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0-preview.5.23280.8/microsoft.extensions.caching.abstractions.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "/home/apolm01-017/.nuget/packages/microsoft.extensions.caching.memory/8.0.0-preview.5.23280.8/microsoft.extensions.caching.memory.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "/home/apolm01-017/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/home/apolm01-017/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0-preview.5.23280.8/microsoft.extensions.dependencyinjection.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "/home/apolm01-017/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0-preview.5.23280.8/microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "/home/apolm01-017/.nuget/packages/microsoft.extensions.logging/8.0.0-preview.5.23280.8/microsoft.extensions.logging.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "/home/apolm01-017/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0-preview.5.23280.8/microsoft.extensions.logging.abstractions.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "/home/apolm01-017/.nuget/packages/microsoft.extensions.options/8.0.0-preview.5.23280.8/microsoft.extensions.options.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "/home/apolm01-017/.nuget/packages/microsoft.extensions.primitives/8.0.0-preview.5.23280.8/microsoft.extensions.primitives.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "/home/apolm01-017/.nuget/packages/mysqlconnector/2.2.5/mysqlconnector.2.2.5.nupkg.sha512",
+    "/home/apolm01-017/.nuget/packages/pomelo.entityframeworkcore.mysql/7.0.0/pomelo.entityframeworkcore.mysql.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
