@@ -38,7 +38,7 @@ Voy a realizar un ejercicio de NetCore con el objetivo de mejorar mi rapidez a l
 
 
 13. cd Infrastructure/
-    - dotnet add package Microsoft.EntityFrameworkCore --version 8.0.0-preview.5.23280.1                ---> Agrega el paquete de Entity Framework Core versión 8.0.0-preview.5.23280.1 al proyecto "Infrastructure".
+    - dotnet add package Microsoft.EntityFrameworkCore --version 7.0.9                                  ---> Agrega el paquete de Entity Framework Core versión 7.0.9 al proyecto "Infrastructure".
     - dotnet add package Pomelo.EntityFrameworkCore.MySql --version 7.0.0                               ---> Agrega el paquete de Entity Framework Core para MySQL versión 7.0.0 al proyecto "Infrastructure".
 
 
