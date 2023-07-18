@@ -22,24 +22,24 @@ Voy a realizar un ejercicio de NetCore con el objetivo de mejorar mi rapidez a l
 
 6. dotnet new classlib -o Core                                                                          ---> Crea un nuevo proyecto de biblioteca de clases en la carpeta "Core".
 
-7. dotnet new classlib -o Infraestructure                                                               ---> Crea un nuevo proyecto de biblioteca de clases en la carpeta "Infraestructure".
+7. dotnet new classlib -o Infrastructure                                                               ---> Crea un nuevo proyecto de biblioteca de clases en la carpeta "Infrastructure".
 
 8. dotnet sln add Core/                                                                                 ---> Agrega el proyecto "Core" a la solución.
 
-9. dotnet sln add Infraestructure/                                                                      ---> Agrega el proyecto "Infraestructure" a la solución.
+9. dotnet sln add Infrastructure/                                                                      ---> Agrega el proyecto "Infrastructure" a la solución.
 
 
-10. cd Infraestructure/
-    - dotnet add reference ../Core/                                                                     ---> Agrega una referencia al proyecto "Core" desde el proyecto "Infraestructure".
+10. cd Infrastructure/
+    - dotnet add reference ../Core/                                                                     ---> Agrega una referencia al proyecto "Core" desde el proyecto "Infrastructure".
 
 
 12. cd API/
-    - dotnet add reference ../Infraestructure/                                                          ---> Agrega una referencia al proyecto "Infraestructure" desde el proyecto "API".
+    - dotnet add reference ../Infrastructure/                                                          ---> Agrega una referencia al proyecto "Infrastructure" desde el proyecto "API".
 
 
-13. cd Infraestructure/
-    - dotnet add package Microsoft.EntityFrameworkCore --version 8.0.0-preview.5.23280.1                ---> Agrega el paquete de Entity Framework Core versión 8.0.0-preview.5.23280.1 al proyecto "Infraestructure".
-    - dotnet add package Pomelo.EntityFrameworkCore.MySql --version 7.0.0                               ---> Agrega el paquete de Entity Framework Core para MySQL versión 7.0.0 al proyecto "Infraestructure".
+13. cd Infrastructure/
+    - dotnet add package Microsoft.EntityFrameworkCore --version 8.0.0-preview.5.23280.1                ---> Agrega el paquete de Entity Framework Core versión 8.0.0-preview.5.23280.1 al proyecto "Infrastructure".
+    - dotnet add package Pomelo.EntityFrameworkCore.MySql --version 7.0.0                               ---> Agrega el paquete de Entity Framework Core para MySQL versión 7.0.0 al proyecto "Infrastructure".
 
 
 14. cd API/
